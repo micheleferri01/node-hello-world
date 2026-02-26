@@ -1,0 +1,18 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "first approach to nodejs for back-end programming",
+  "keywords": [
+    "nodejs",
+    "server",
+    "boolean",
+    "back-end"
+  ],
+  "license": "ISC",
+  "author": "Michele Ferri",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
